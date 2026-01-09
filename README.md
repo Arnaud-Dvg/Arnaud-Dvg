@@ -16,6 +16,10 @@ Actuellement en recherche d’une **alternance à partir de janvier 2026** pour 
 
 ## 🚀 Quelques projets
 
+- 🍴 **[Les Recettes D'Arnaud](https://github.com/Arnaud-Dvg/Les-Recettes-D--Arnaud)**  
+  Les recettes d’Arnaud est un personnel dédié à la gestion et à la consultation de mes recettes de cuisine du quotidien.
+  EN COURS DE REALISATION
+
 - 📺 **[TakuTaku](https://github.com/Arnaud-Dvg/Project-TakuTaku)**  
   Site de streaming d’animés avec système d’abonnement payant. Les utilisateurs peuvent parcourir un catalogue, regarder des animés, gérer leurs favoris et suivre leur historique de visionnage.
 
