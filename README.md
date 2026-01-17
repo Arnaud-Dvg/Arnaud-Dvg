@@ -20,6 +20,9 @@ Actuellement en recherche d’une **alternance à partir de janvier 2026** pour 
   Les recettes d’Arnaud est un site personnel dédié à la gestion et à la consultation de mes recettes de cuisine du quotidien.  
   EN COURS DE REALISATION
 
+- 💼 **[Portfolio d'Arnaud](https://github.com/Arnaud-Dvg/Portfolio)**  
+  Portfolio professionnel sur mon parcours, mes compétences et mes projets réalisés.
+
 - 📺 **[TakuTaku](https://github.com/Arnaud-Dvg/Project-TakuTaku)**  
   Site de streaming d’animés avec système d’abonnement payant. Les utilisateurs peuvent parcourir un catalogue, regarder des animés, gérer leurs favoris et suivre leur historique de visionnage.
 
